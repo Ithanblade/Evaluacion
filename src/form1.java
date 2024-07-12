@@ -18,9 +18,9 @@ public class form1 extends JFrame {
         setTitle("Login del sistema");
         setContentPane(mainPanel);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(400, 400);
-        setPreferredSize(new Dimension(400,400));
-        setMinimumSize(new Dimension(400,400));
+        setSize(300, 300);
+        setPreferredSize(new Dimension(300,300));
+        setMinimumSize(new Dimension(300,300));
         pack();
         setLocationRelativeTo(null);
         setVisible(true);
